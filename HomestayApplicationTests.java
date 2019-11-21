@@ -14,7 +14,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import java.util.Date;
 import java.util.concurrent.Semaphore;
-
+//第一天 
 public class HomestayApplicationTests {
 //    static int index = 0;
 
