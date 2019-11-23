@@ -6,6 +6,8 @@ import org.junit.Test;
 /**
  * 第四天
  * 有序数组合并
+ * 感想 ： 一开始有点思路写完了，普通的也测试过了，但是leetcode一提交给了几个临界值就报错了，希望自己以后能考虑的全面点，
+ * 努力加油，以后能多练练，多看看
  */
 
 public class ArrayMerge {
